@@ -1,0 +1,316 @@
+
+.Request{
+   background-color: black;
+   border: none;
+   color: white;
+   height: 83px;
+   width: 270;
+   font-size: 27px;
+   font-weight: 20;
+   margin-right: 5px;
+   cursor: pointer;
+   transition: opacity 1s;
+   transition:1.20s;
+   box-shadow: 25px 26px 30px rgb(255, 201, 170);
+   
+}
+.Request:hover {
+   background-color: rgb(231, 201, 201);
+   color:rgb(8, 5, 5);
+   opacity:1;
+   transition-duration:0.30s;
+   box-shadow: 25px 26px 30px rgba(0, 0, 0, 0.8);
+}
+.Request.button:active{
+   ackground-color: rgb(197, 13, 13);
+   ox-shadow:000red;
+   
+}
+
+.cart{
+   background-color: rgb(190, 178, 7);
+   border: none;
+   color: rgb(0, 0, 0);
+   height: 100px;
+   width: 350px;
+   font-size: 40px;
+   font-weight: bold;
+   border-radius: 40px;
+   margin-left: 2px;
+   cursor: pointer;
+   transition:1s;
+   box-shadow: 25px 30px 30px rgba(54, 50, 13, 0.87)
+}
+.cart:hover{
+   transition:0.30s;
+   background-color: black;
+   color:yellow;
+   box-shadow: 25px 30px 30px rgba(243, 223, 47, 0.952)
+}
+
+.sign-button {
+   background-color: rgb(75, 175, 61);
+   border: none;
+   color: rgb(255, 255, 255);
+   height: 88px;
+   width: 242;
+   font-size: 43px;
+   font-weight: 20;
+   border-radius: 15px;
+   margin-left: 5px;
+   cursor: pointer;
+   transition:1s;
+   box-shadow:30px 33px 30px rgba(24, 87, 18, 0.8)
+}
+.sign-button:hover {
+   background-color:rgb(29, 206, 147);
+   color:rgb(3, 73, 3);
+   transition:0.30s;
+   box-shadow: 30px 33px 30px rgba(6, 245, 26, 0.8)
+}
+
+
+.get-button { 
+
+   background-color: rgb(115, 72, 155);
+   color: rgb(255, 255, 255);
+   border-radius: 8px;
+   margin-right: 5px;
+   font-size: 35px;
+   cursor: pointer;
+   height: 88px;
+   width: 270px;
+   border: none;
+   font: bold;
+   transition: 1s;
+   box-shadow: 25px 30px 30px rgb(125, 170, 255);
+
+}
+.get-button:hover {
+   background-color: bisque;
+   color: rgb(82, 29, 133);
+   transition: 0.30s;
+   box-shadow: 25px 30px 30px rgba(97, 10, 138, 0.8);
+}
+
+
+.downl-button {
+
+   background-color:rgb(233, 233, 233);
+   font-size: 35px;
+   margin-left:5px;
+   border-radius:9px;
+   color:rgb(56, 55, 55);
+   cursor:pointer;
+   height: 88px;
+   width: 270px;
+   font-style:normal;
+   box-shadow: 25px 30px 30px rgb(65, 32, 32);
+   transition: 1s;
+
+}
+.downl-button:hover {
+   background-color: rgb(63, 19, 19);
+   color: rgb(255, 237, 237);
+   box-shadow: 25px 30px 30px rgb(110, 121, 143);
+   transition: 0.30s;
+}
+
+.apply-button {
+
+   background-color:rgb(39, 94, 214);
+   font-size:40px;
+   height: 90px;
+   width:616px;
+   color:white;
+   cursor: pointer;
+   margin-left:5px;
+   border-radius: 50px;
+   box-shadow: 25px 30px 30px rgb(114, 127, 151);
+   transition: 1s;
+
+}
+.apply-button:hover{
+   box-shadow: 25px 30px 30px rgb(11, 92, 255);
+   transition: 0.30s;
+   background-color: azure;
+   color: blue;
+}
+
+
+.save-button {
+
+   border-color: rgb(21, 91, 172);
+   font-size: 35px;
+   color:rgb(21, 94, 179);
+   border-radius:80px;
+   height: 88px;
+   width: 200px;
+   cursor: pointer;
+   margin-left: 5px;
+   box-shadow: 25px 30px 30px rgb(27, 103, 255);
+   transition: 1s;
+}
+.save-button:hover {
+   background-color: rgb(19, 110, 230);
+   color: aliceblue;
+   transition: 0.30s;
+   box-shadow: 25px 30px 30px rgb(132, 173, 255);
+}.Request-button {
+        background-color: black;
+        border: none;
+        color: white;
+        height: 83px;
+        width: 270;
+        font-size: 27px;
+        font-weight: 20;
+        margin-right: 5px;
+        cursor: pointer;
+        transition: opacity 1s;
+        transition:1.20s;
+        box-shadow: 25px 26px 30px rgb(255, 201, 170);
+        
+    }
+    .Request-button:hover {
+        background-color: rgb(231, 201, 201);
+        color:black;
+        opacity:1;
+        transition-duration:0.30s;
+        box-shadow: 25px 26px 30px rgba(0, 0, 0, 0.8);
+    }
+    .Request.button:active{
+        ackground-color: rgb(197, 13, 13);
+        ox-shadow:000red;
+        
+    }
+
+    .cart-button {
+        background-color: rgb(235, 221, 34);
+        border: none;
+        color: rgb(0, 0, 0);
+        height: 88px;
+        width: 445;
+        font-size: 43px;
+        font-weight: 20;
+        border-radius: 40px;
+        margin-right: 5px;
+        cursor: pointer;
+        transition:1s;
+        box-shadow: 25px 30px 30px rgba(54, 50, 13, 0.87)
+    }
+    .cart-button:hover{
+        transition:0.30s;
+        background-color: black;
+        color:yellow;
+        box-shadow: 25px 30px 30px rgba(243, 223, 47, 0.952)
+    }
+
+    .sign-button {
+        background-color: rgb(75, 175, 61);
+        border: none;
+        color: rgb(255, 255, 255);
+        height: 88px;
+        width: 242;
+        font-size: 43px;
+        font-weight: 20;
+        border-radius: 15px;
+        margin-left: 5px;
+        cursor: pointer;
+        transition:1s;
+        box-shadow:30px 33px 30px rgba(24, 87, 18, 0.8)
+    }
+    .sign-button:hover {
+        background-color:rgb(29, 206, 147);
+        color:rgb(3, 73, 3);
+        transition:0.30s;
+        box-shadow: 30px 33px 30px rgba(6, 245, 26, 0.8)
+    }
+
+
+    .get-button { 
+
+        background-color: rgb(115, 72, 155);
+        color: rgb(255, 255, 255);
+        border-radius: 8px;
+        margin-right: 5px;
+        font-size: 35px;
+        cursor: pointer;
+        height: 88px;
+        width: 270px;
+        border: none;
+        font: bold;
+        transition: 1s;
+        box-shadow: 25px 30px 30px rgb(125, 170, 255);
+
+    }
+    .get-button:hover {
+        background-color: bisque;
+        color: rgb(82, 29, 133);
+        transition: 0.30s;
+        box-shadow: 25px 30px 30px rgba(97, 10, 138, 0.8);
+    }
+
+
+    .downl-button {
+
+        background-color:rgb(233, 233, 233);
+        font-size: 35px;
+        margin-left:5px;
+        border-radius:9px;
+        color:rgb(56, 55, 55);
+        cursor:pointer;
+        height: 88px;
+        width: 270px;
+        font-style:normal;
+        box-shadow: 25px 30px 30px rgb(65, 32, 32);
+        transition: 1s;
+
+    }
+    .downl-button:hover {
+        background-color: rgb(63, 19, 19);
+        color: rgb(255, 237, 237);
+        box-shadow: 25px 30px 30px rgb(110, 121, 143);
+        transition: 0.30s;
+    }
+
+    .apply-button {
+
+        background-color:rgb(39, 94, 214);
+        font-size:40px;
+        height: 90px;
+        width:616px;
+        color:white;
+        cursor: pointer;
+        margin-left:5px;
+        border-radius: 50px;
+        box-shadow: 25px 30px 30px rgb(114, 127, 151);
+        transition: 1s;
+
+    }
+    .apply-button:hover{
+        box-shadow: 25px 30px 30px rgb(11, 92, 255);
+        transition: 0.30s;
+        background-color: azure;
+        color: blue;
+    }
+
+
+    .save-button {
+
+        border-color: rgb(21, 91, 172);
+        font-size: 35px;
+        color:rgb(21, 94, 179);
+        border-radius:80px;
+        height: 88px;
+        width: 200px;
+        cursor: pointer;
+        margin-left: 5px;
+        box-shadow: 25px 30px 30px rgb(27, 103, 255);
+        transition: 1s;
+    }
+    .save-button:hover {
+        background-color: rgb(19, 110, 230);
+        color: aliceblue;
+        transition: 0.30s;
+        box-shadow: 25px 30px 30px rgb(132, 173, 255);
+    }

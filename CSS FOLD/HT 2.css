@@ -1,0 +1,44 @@
+
+.sales-button {
+   border-color: rgb(43, 241, 25);
+font-size: 15px;
+color:rgb(6, 114, 91);
+border-radius:80px;
+height: 88px;
+width: 200px;
+cursor: pointer;
+margin-left: 15px;
+margin-right: 80px;
+box-shadow: 25px 30px 30px rgb(247, 11, 129);
+transition: 1s;
+}
+.sales-button:hover {
+background-color: rgb(223, 28, 28);
+color: rgb(10, 61, 50);
+transition: 0.30s;
+box-shadow: 25px 30px 30px rgb(40, 2, 253);
+}
+.model-text {
+   font-size: 60px;
+   margin-left: 300px;
+  font-family:"montserrat" bold;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+.model.text{
+   font-family:georgia;
+   font-optical-sizing: auto;
+   font-weight: bolder;
+   font-style: normal;
+}
+.order-text{
+   margin-left: 110px;
+   font-size: 43px;
+}
+.touch-text{
+   text-decoration: underline;
+   cursor: pointer;
+}

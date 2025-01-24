@@ -1,0 +1,106 @@
+
+   .t-text{
+      font-family: tahoma;
+      font-weight: bold;
+      font-size: 55px;
+      font: bold;
+   }
+   .htcss-tittle {
+      font-family: verdana;
+      font-weight:bold;
+      font-size:30px;
+      
+   }
+   .pro-text{
+      color: rgb(83, 94, 105);
+      font-size:37px;
+   }
+   .inthis-text {
+      font-size: 30;
+      font-family:verdana;
+      line-height: 40px;
+      width: 90px;
+   }
+   .get-button{
+      background-color: rgb(71, 143, 23);
+      color: white;
+      border-radius: 8px;
+      height: 60px;
+      width: 229px;
+      border:none;
+      font-size: 30px;
+      font-family: verdana;
+      cursor: pointer;
+      transition: 1s;
+   }
+   .get-button:hover{
+      box-shadow: 20px 25px 50px rgb(114, 8, 0);
+      transition: o.25s;
+   }
+   .deals-text{
+      font-family: arial;
+      font-weight:bolder;
+      font-size: 56px;
+   }
+   .end-text{
+      color: rgb(235, 37, 37);
+      font-family: arial;
+      font-size: 40px;
+      font-style: italic;
+
+   }
+   .your-text{
+      font-family: arial;
+      font-size: 50px;
+      font-weight: bold;
+      
+   }
+   .see-text{
+      font-family: arial;
+      font-size: 30px;
+      margin-left: 100px;
+   }
+   .learn-text{
+      font-family: arial;
+      font-size: 26px;
+      margin-left: 300px;
+      color: rgb(23, 78, 180);
+   }
+   .back-button {
+      border-color: rgb(21, 91, 172);
+font-size: 15px;
+color:rgb(6, 114, 91);
+border-radius:80px;
+height: 88px;
+width: 200px;
+cursor: pointer;
+margin-left: 15px;
+margin-right: 80px;
+box-shadow: 25px 30px 30px rgb(0, 202, 158);
+transition: 1s;
+}
+.back-button:hover {
+background-color: rgb(22, 233, 57);
+color: rgb(255, 255, 255);
+transition: 0.30s;
+box-shadow: 25px 30px 30px rgb(132, 173, 255);
+}
+.ht2-button
+{ border-color: rgb(21, 91, 172);
+font-size: 15px;
+color:rgb(6, 114, 91);
+border-radius:80px;
+height: 88px;
+width: 200px;
+cursor: pointer;
+margin-left: 15px;
+margin-right: 80px;
+box-shadow: 25px 30px 30px rgb(0, 202, 158);
+transition: 1s;
+}
+.ht2-button:hover {
+background-color: rgb(22, 233, 57);
+color: rgb(255, 255, 255);
+transition: 0.30s;
+box-shadow: 25px 30px 30px rgb(132, 173, 255);
+}
